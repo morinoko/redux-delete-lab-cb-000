@@ -10,3 +10,5 @@ const Bands = props => {
     </ul>
   )
 }
+
+export default Bands;
